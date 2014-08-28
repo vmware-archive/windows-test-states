@@ -1,0 +1,2 @@
+johndoe:
+  user.absent
